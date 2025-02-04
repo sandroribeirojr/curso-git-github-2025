@@ -1,0 +1,10 @@
+git init . -> transforma a pasta em especial, com possibilidade dos arquivos dentro dela serem versionados (iniciar um repositório)
+git status -> mostra como está o diretório
+git add -> adiciona aquilo que você quer que vá para o commit
+git commit -m "[descrição do commit]"-> dar um commit
+git config --global user.email "[e-mail]" -> configurar o git com sua conta
+git config --global user.name "[nome]" -> configurar o git com sua conta
+git config --global user.email -> saber qual e-mail está logado
+git config --global user.name -> saber qual nome está logado
+git log -> vê todos os commits
+git diff <nome do arquivo> -> vê diferença do estado atual em relação ao commit anterior

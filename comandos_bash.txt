@@ -1,0 +1,16 @@
+ls -> lista arquivos
+ls -a -> lista arquivos + ocultos
+cd -> move entre diretórios
+pwd -> mostra diretório de trabalho
+cat -> exibe conteúdo do arquivo
+rm -> remove arquivo ou diretório
+rm -rf -> remove de forma recursiva e forçada todos diretórios
+rm -rf .git/ -> excluir a pasta git (exclui um diretório)
+mkdir -> cria uma pasta
+nano -> editar texto dentro do terminal
+
+Arquivos ocultos . e ..
+. -> referência a pasta que você está
+.. -> referência a pasta acima do que você está (mais próxima da pasta raiz)
+
+Ctrl + L -> limpar terminal
