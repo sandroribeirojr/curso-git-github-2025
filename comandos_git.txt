@@ -9,3 +9,8 @@ git config --global user.name -> saber qual nome está logado
 git log -> vê todos os commits
 git diff <nome do arquivo> -> vê diferença do estado atual em relação ao commit anterior
 git merge <nome da branch> -> mesclar branches (trazendo as alterações, mas mantendo a outra intacta)
+git reset <nome do arquivo> -> retira um arquivo do staged do commit
+git checkout -b <nome da branch> -> cria uma branch e te muda pra branch criada
+git checkout <nome da branch> -> muda de branch
+git branch -> lista todas as branchs (sinalizando a atual)
+git branch -d <nome da branch> -> deleta a branch
