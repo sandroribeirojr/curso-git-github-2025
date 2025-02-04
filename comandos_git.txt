@@ -8,3 +8,4 @@ git config --global user.email -> saber qual e-mail está logado
 git config --global user.name -> saber qual nome está logado
 git log -> vê todos os commits
 git diff <nome do arquivo> -> vê diferença do estado atual em relação ao commit anterior
+git merge <nome da branch> -> mesclar branches (trazendo as alterações, mas mantendo a outra intacta)
